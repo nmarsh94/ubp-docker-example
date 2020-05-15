@@ -11,3 +11,14 @@
 
 # Nota:
 En los comentarios del file docker-compose.yml estan los puntos a resolver
+
+
+# Resolución
+-1. Agregando las variables de entorno en nuestro archivo ```docker-compose.yml```.  
+![Foto1](images/1.png)  
+
+-4. Hosteando dos contenedores  
+![Foto1](images/1.png)  
+
+-5. Instalando nano  
+![Foto4](images/4.png)  
