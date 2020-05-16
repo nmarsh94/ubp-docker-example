@@ -14,11 +14,17 @@ En los comentarios del file docker-compose.yml estan los puntos a resolver
 
 
 # Resolución
--1. Agregando las variables de entorno en nuestro archivo ```docker-compose.yml```.  
+1. Agregando las variables de entorno en nuestro archivo ```docker-compose.yml```.  
 ![Foto1](images/1.png)  
 
--4. Hosteando dos contenedores  
-![Foto1](images/1.png)  
+2. phpMyAdmin agregado al ```docker-compose.yml```.
+![Foto2](images/2.png)  
+
+3. Persistiendo el contenido de la base de datos mysql en disco
+![Foto3](images/3.png)  
+
+4. Hosteando dos contenedores en puertos diferentes 
+![Foto4](images/1.png)  
 
 -5. Instalando nano  
-![Foto4](images/4.png)  
+![Foto5](images/5.png)  
